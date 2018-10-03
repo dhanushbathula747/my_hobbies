@@ -2,7 +2,7 @@
 
 import sys
 
-
+//the prupose of the game.
 n,k = input().strip().split(' ')
 n,k = [int(n),int(k)]
 x,y = input().strip().split(' ')
